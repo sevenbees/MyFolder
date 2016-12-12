@@ -3,7 +3,7 @@ def add():
         return
 
 def diff():
-        a - b
+        print'(a - b)'
         return
 
 def dadd():
